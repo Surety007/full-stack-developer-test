@@ -6,6 +6,15 @@
 
 **Important:** This is a test of problem-solving ability and ingenuity, not memorization. You are **strongly encouraged** to use all available resources including AI assistants (ChatGPT, Claude, Copilot), documentation, Stack Overflow, tutorials, and any other tools that help you build the best solution possible.
 
+## Demo Login
+
+For quick testing, you can use the following dummy credentials:
+
+**Admin User**
+- Email: `admin@gmail.com`
+- Password: `123456`
+
+
 ## Development Approach
 
 **We value resourcefulness over rote memorization.** This test evaluates:
